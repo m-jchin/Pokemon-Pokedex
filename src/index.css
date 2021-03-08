@@ -1,0 +1,121 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,400;0,500;0,700;1,400;1,500&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html{
+    height: 100vh;
+    width: 100vw;
+}
+.bug {
+    background-color: #92BC2C !important;
+ 
+    /*background-image: url(./icons/bug.svg);*/
+}
+
+.dark {
+    background-color: #595761 !important;
+    
+}
+
+.dragon {
+    background-color: #0C69C8 !important;
+
+}
+
+.electric {
+    background-color: #e6c400 !important;
+   
+}
+
+.fire {
+    background-color: #FBA54C !important;
+
+}
+
+.fairy {
+    background-color: #EE90E6 !important;
+  
+}
+
+.fighting {
+    background-color: #D3425F !important;
+
+}
+
+.flying {
+    background-color: #A1BBEC !important;
+
+}
+
+.ghost {
+    background-color: #5F6DBC !important;
+
+}
+
+.grass {
+    background-color: #5FBD58 !important;
+ 
+}
+
+.grass-svg{
+    /*background-image: url(./icons/grass.svg) !important;*/
+}
+
+.ground {
+    background-color: #DA7C4D !important;
+
+}
+
+.ice {
+    background-color: #75D0C1 !important;
+
+}
+
+.normal {
+    background-color: #A0A29F !important;
+  
+}
+
+.poison {
+    background-color: #B763CF !important;
+  
+}
+
+.psychic {
+    background-color: #FA8581 !important;
+
+}
+
+.rock {
+    background-color: #C9BB8A !important;
+    
+}
+
+.steel {
+    background-color: #5695A3 !important;
+ 
+}
+
+.water {
+    background-color: #539DDF !important;
+  
+}
+
+.hp{
+    background-color: red;
+    
+}
+.attack{
+    background-color: orange;
+
+}
+.defense{
+    background-color: rgb(216, 202, 44);
+  
+}
+.speed{
+    background-color: hotpink;
+
+}
